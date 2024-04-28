@@ -1,0 +1,32 @@
+commands to execute CPP codes: (ctrl+X for new line)
+------------------------------------
+gedit file_name.cpp
+g++ file_name.cpp
+./a.out
+------------------------------------
+HPC:
+DFS/BFS: (tree):-
+open mp:
+ gedit file.cpp
+g++ -fopenmp file.cpp -o file.out
+./a.out
+------------------------------------
+CUDA: software needs to be installed
+
+------------------------------------
+DL: google collab/vs code/jupyter:
+
+ubuntu:
+--------
+sudo apt-get update
+sudo apt install pip
+sudo pip install jupyter
+jupyter notebook
+--------------------
+for tensorflow jupyter : (common)
+pip install tensorflow
+-----------------------
+windows 
+----------------
+....
+-------------------------------------
